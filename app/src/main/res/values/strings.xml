@@ -6,5 +6,12 @@
     <string name="invalid_input">Masukkan angka yang valid</string>
     <string name="result_f">Fahrenheit: %1$.2f °F</string>
     <string name="result_k">Kelvin: %1$.2f K</string>
-    <string name="open_calculator">Buka Kalkulator</string>
+    <string name="about_text">
+    Aplikasi Cek Suhu adalah sebuah aplikasi yang dibuat untuk memudahkan pekerjaan sekolah atau pekerjaan lainnya yang berhubungan dengan suhu. Copyright @yehezkiel Theysa Fredy
+</string>
+    <string name="about">Tentang</string>
+    <string name="exit">Keluar</string>
+    <string name="back">Kembali</string>
+    <string name="share">Bagikan</string>
+
 </resources>
