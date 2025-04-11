@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Cek Suhu</string>
+    <string name="input_temp">Masukkan suhu dalam Celsius</string>
+    <string name="convert">Konversi</string>
+    <string name="reset">Reset</string>
+    <string name="invalid_input">Masukkan angka yang valid</string>
+    <string name="result_f">Fahrenheit: %1$.2f °F</string>
+    <string name="result_k">Kelvin: %1$.2f K</string>
+    <string name="open_calculator">Buka Kalkulator</string>
 </resources>
